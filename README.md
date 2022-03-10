@@ -60,7 +60,7 @@ Create a binary classification model
   * Mutual inormation gain
   * K-best - selected top 10 columns based on information gain
   
-- Feature scaling
+-- Feature scaling
  * Standard scaler
 
 -- Created models 
