@@ -40,7 +40,7 @@ Create a binary classification model
 * Matplotlib
 * Seaborn
 * Scikit learn
-* VScod
+* VScode
 * Keras
 * Tensorflow
 * jupyter notebook
