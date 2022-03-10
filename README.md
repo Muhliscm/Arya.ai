@@ -67,7 +67,7 @@ Create a binary classification model
 1. Logistic regression script [here](https://github.com/Muhliscm/Arya.ai/blob/main/logistic_regression.ipynb)
 2. svm script [here](https://github.com/Muhliscm/Arya.ai/blob/main/svm.ipynb)
 3. Decision Tree script [here](https://github.com/Muhliscm/Arya.ai/blob/main/Decision_tree.ipynb)
-4. Random forest script [here](https://github.com/Muhliscm/Arya.ai/blob/main/Random_forest.ipynb)
+4. Random forest script [here](https://github.com/Muhliscm/Arya.ai/blob/main/Random_forest.ipynb) <br>
 5.Random forest with future selection [here](https://github.com/Muhliscm/Arya.ai/blob/main/random_forest_with_future_selection.ipynb)
 6. ANN [here](https://github.com/Muhliscm/Arya.ai/blob/main/ANN.ipynb)
 
