@@ -76,12 +76,12 @@ Create a binary classification model
   
     metrics used - accuracy, confusion matrix
   
-  1.Logistic regression                  : 86 % <br>
-  2.svm                                  : 90 % <br>
-  3.Decision Tree                        : 86.5% <br>
-  4.Random forest                        : 94.4%<br>
-  5.Random forest with future selection  : 92 % <br>
-  6.ANN                                  : 94.2 %<br>
+  1. Logistic regression                  : 86 % <br>
+  2. svm                                  : 90 % <br>
+  3. Decision Tree                        : 86.5% <br>
+  4. Random forest                        : 94.4%<br>
+  5. Random forest with future selection  : 92 % <br>
+  6. ANN                                  : 94.2 %<br>
 
  model selected : random forest based on accuracy
  
