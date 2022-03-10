@@ -64,24 +64,24 @@ Create a binary classification model
  * Standard scaler
 
 -- Created models 
-1. Logistic regression script [here](https://github.com/Muhliscm/Arya.ai/blob/main/logistic_regression.ipynb)
-2. svm script [here](https://github.com/Muhliscm/Arya.ai/blob/main/svm.ipynb)
-3. Decision Tree script [here](https://github.com/Muhliscm/Arya.ai/blob/main/Decision_tree.ipynb)
+1. Logistic regression script [here](https://github.com/Muhliscm/Arya.ai/blob/main/logistic_regression.ipynb)<br>
+2. svm script [here](https://github.com/Muhliscm/Arya.ai/blob/main/svm.ipynb)<br>
+3. Decision Tree script [here](https://github.com/Muhliscm/Arya.ai/blob/main/Decision_tree.ipynb)<br>
 4. Random forest script [here](https://github.com/Muhliscm/Arya.ai/blob/main/Random_forest.ipynb) <br>
-5.Random forest with future selection [here](https://github.com/Muhliscm/Arya.ai/blob/main/random_forest_with_future_selection.ipynb)
-6. ANN [here](https://github.com/Muhliscm/Arya.ai/blob/main/ANN.ipynb)
+5.Random forest with future selection [here](https://github.com/Muhliscm/Arya.ai/blob/main/random_forest_with_future_selection.ipynb)<br>
+6. ANN [here](https://github.com/Muhliscm/Arya.ai/blob/main/ANN.ipynb)<br>
 
 -- Perfomance analysis :
   - Hard to apply other metics because of lack of domain information:
   
     metrics used - accuracy, confusion matrix
   
-  1. Logistic regression                  : 86 %
-  2. svm                                  : 90 %
-  3.Decision Tree                         : 86.5%
+  1. Logistic regression                  : 86 % <br>
+  2. svm                                  : 90 % <br>
+  3.Decision Tree                         : 86.5% <br>
   4.Random forest                         : 94.4%<br>
-  5.Random forest with future selection   : 92 %
-  6.ANN                                  : 94.2 %
+  5.Random forest with future selection   : 92 % <br>
+  6.ANN                                  : 94.2 %<br>
 
  model selected : random forest based on accuracy
  
