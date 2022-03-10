@@ -89,6 +89,8 @@ Create a binary classification model
  
  predicted test results [here](https://github.com/Muhliscm/Arya.ai/blob/main/predicted_test_results.csv)
  
+ ### Dependency and required libraries : [click here](https://github.com/Muhliscm/Arya.ai/blob/main/requirements.txt)
+ 
 
 
 
