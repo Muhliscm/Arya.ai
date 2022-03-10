@@ -79,7 +79,7 @@ Create a binary classification model
   1. Logistic regression                  : 86 %
   2. svm                                  : 90 %
   3.Decision Tree                         : 86.5%
-  4.Random forest                         : 94.4%
+  4.Random forest                         : 94.4%<br>
   5.Random forest with future selection   : 92 %
   6.ANN                                  : 94.2 %
 
