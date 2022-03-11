@@ -72,7 +72,7 @@ Create a binary classification model
 6. ANN [here](https://github.com/Muhliscm/Arya.ai/blob/main/ANN.ipynb)<br>
 
 -- Perfomance analysis :
-  - Hard to apply other metics because of lack of domain information:
+  
   
     metrics used - accuracy, confusion matrix
   
